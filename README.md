@@ -7,9 +7,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![pic1](https://github.com/Klubbers0/Kickstarter-analysis/blob/main/resources/Outcomes%20Based%20on%20Goal.png)
-### Analysis of Outcomes Based on Goals
 
+### Analysis of Outcomes Based on Goals
+![pic1](https://github.com/Klubbers0/Kickstarter-analysis/blob/main/resources/Outcomes%20Based%20on%20Goal.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
