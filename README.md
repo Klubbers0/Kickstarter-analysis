@@ -14,11 +14,11 @@
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date? When a kickstarter is launched in May or June they have a higher success rate. Kickstarters launched in October have a low chance of being canceled. 
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals? Goals less than 1000 have a higher chance of being successful, whereas goals between 4500-4999 have a greater chance of failing. 
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset? It doesn't show location.
 
-- What are some other possible tables and/or graphs that we could create?
-!
+- What are some other possible tables and/or graphs that we could create? Outcomes based off of outcomes and location, outcomes and year created.
+
