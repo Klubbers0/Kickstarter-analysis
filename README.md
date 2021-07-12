@@ -18,7 +18,7 @@
 
 - What can you conclude about the Outcomes based on Goals? Goals less than 1000 have a higher chance of being successful, whereas goals between 4500-4999 have a greater chance of failing. 
 
-- What are some limitations of this dataset? It doesn't show location.
+- What are some limitations of this dataset? It doesn't show location of the theatre/plays. 
 
 - What are some other possible tables and/or graphs that we could create? Outcomes based off of outcomes and location, outcomes and year created.
 
